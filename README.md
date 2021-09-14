@@ -44,6 +44,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 
-![Snake animation](https://github.com/cartulo/cartulo/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
