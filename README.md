@@ -47,6 +47,11 @@
     <a href="https://linkedin.com/in/gil-tulo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-svg?style=for-the-badge&logo=linkedin&color=blue"></a>
     <a href="mailto:contato.gil.tulo@gmail.com" target="_blank"><img alt="E-mail de Contato" src="https://img.shields.io/badge/-Gmail-svg?style=for-the-badge&logo=gmail&logoColor=white&color=red"></a>
     <a href="https://discord.gg/ezXs7ZhA7T" target="_blank"><img alt="Discord - GEN Tech" src="https://img.shields.io/badge/-GEN%20Tech-svg?style=for-the-badge&logo=discord&logoColor=white&color=blue"></a>
+    <br>
+    <h4>Formulários para Geração Tecnologias (GEN Tech)</h4>
+    <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank"><img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue"></a>
+    <a href="https://forms.gle/wY4dRcFsMFqDewsV9" target="_blank"><img alt="Desenvolvedor" src="https://img.shields.io/badge/-Desenvolvedor-svg?style=for-the-badge&logoColor=white&color=purple"></a>
+    <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank"><img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green"></a>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
