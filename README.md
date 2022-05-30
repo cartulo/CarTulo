@@ -1,13 +1,13 @@
 <!-- Descrição -->
-<h3>Salve meus lindos 👋</h3>
+### Salve meus lindos 👋
 
 <!-- Habilidades -->
-<div>
+<p align="left">
     <img align="right" alt="AgioTulo" src="https://cdn.discordapp.com/emojis/758866965904228362.png?v=1">
     <!-- https://img.shields.io/badge/--svg?style=for-the-badge&logo=&logoColor=&color= -->
     <details>
         <summary>Linguagens de programação e marcação</summary>
-        <p>
+        <br/>
             <a href="https://github.com/search?&q=user%3ACartulo+language%3Acsharp">
                 <img alt="C#" src="https://img.shields.io/badge/-C%23-svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=purple">
             </a>
@@ -30,11 +30,11 @@
             <a href="https://github.com/search?&q=user%3ACartulo+language%3Atypescript">
                 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-svg?style=for-the-badge&logo=typescript&logoColor=white&color=blue">
             </a>
-        </p>
+        <br/>
     </details>
     <details>
         <summary>Frameworks e bibliotecas</summary>
-        <p>
+        <br/>
             <a href="#">
                 <img alt="Angular" src="https://img.shields.io/badge/-Angular-svg?style=for-the-badge&logo=angular&logoColor=white&color=red">
             </a>
@@ -47,11 +47,11 @@
             <a href="#">
                 <img alt="Vue" src="https://img.shields.io/badge/-Vue-svg?style=for-the-badge&logo=vue.js&logoColor=white&color=darkgreen">
             </a>
-        </p>
+        <br/>
     </details>
     <details>
         <summary>Bancos de dados e hospedagem na nuvem</summary>
-        <p>
+        <br/>
             <a href="#">
                 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-svg?style=for-the-badge&logo=mysql&logoColor=white&color=blue">
             </a>
@@ -61,40 +61,37 @@
             <a href="#">
                 <img alt="SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=red">
             </a>
-        </p>
+        <br/>
     </details>
     <details>
         <summary>Softwares e ferramentas</summary>
-        <p>
+        <br/>
             <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-svg?style=for-the-badge&logo=adobe-photoshop&logoColor=darkblue&color=blue"></a>
-        </p>
+        <br/>
     </details>
-</div>
-<br>
+</p>
 
 <!-- Projetos -->
-<div>
-    <h3>Principais projetos</h3>
+<p align="center"> 
+    ### Principais projetos
     <a href="https://github.com/Cartulo/Exercicios">
-        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="150em">
+        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" width="282">
     </a>
     <a href="https://github.com/geracao/gen-trophies">
-        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="150em">
+        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" width="282">
     </a>
-</div>
-<br>
+</p>
 
 <!-- Suporte e Links -->
-<div align="center">
+<p align="center">
     <a href="https://www.buymeacoffee.com/cartulo" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;">
     </a>
-</div>
-<br>
+</p>
 
 <!-- CONTACT WITH ME + Forms GEN Tech -->
-<div>
-    <div align="center">
+<p align="left">
+    <p align="center">
         <a href="https://linkedin.com/in/gil-tulo" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-svg?style=for-the-badge&logo=linkedin&color=blue">
         </a>
@@ -104,9 +101,9 @@
         <a href="https://discord.gg/ezXs7ZhA7T" target="_blank">
             <img alt="Discord - GEN Tech" src="https://img.shields.io/badge/-GEN%20Tech-svg?style=for-the-badge&logo=discord&logoColor=white&color=blue">
         </a>
-    </div>
-    <div>
-        <h3>Formulários para Geração Tecnologias (GEN Tech)</h3>
+    </p>
+    <p>
+        ### Formulários para Geração Tecnologias (GEN Tech)
         <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank">
             <img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue">
         </a>
@@ -116,14 +113,13 @@
         <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank">
             <img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green">
         </a> 
-    </div>
-</div>
-<br>
+    </p>
+</p>
 
 <!-- STATISTICS -->
-<div> 
+<p> 
     <!-- <a href="https://github.com/cartulo"> -->
-    <img alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img alt="Most Used Languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img alt="GitHub Stats" height="192px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img alt="Most Used Languages" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
-</div>
+</p>
