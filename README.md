@@ -73,7 +73,7 @@
 
 <!-- Projetos -->
 <p align="center"> 
-    ### Principais projetos
+    <h3>Principais projetos</h3>
     <a href="https://github.com/Cartulo/Exercicios">
         <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" width="282">
     </a>
@@ -103,7 +103,7 @@
         </a>
     </p>
     <p>
-        ### Formulários para Geração Tecnologias (GEN Tech)
+        <h3>Formulários para Geração Tecnologias (GEN Tech)</h3>
         <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank">
             <img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue">
         </a>
