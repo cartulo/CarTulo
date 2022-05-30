@@ -46,19 +46,9 @@
 
 <!-- Projetos -->
 <div>
-    <table border="0">
-        <tr>
-            <th colspan="3">
-                <h3>Principais projetos</h3>
-            </th>
-            <td>
-                <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight">
-            </td>
-            <td>
-                <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight">
-            </td>
-        </tr>
-    </table>
+    <h3>Principais projetos</h3>
+    <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" style="height:400px">
+    <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" style="height:400px">
 </div>
 
 <!-- Suporte e Links -->
