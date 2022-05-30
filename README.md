@@ -1,7 +1,7 @@
 <!-- Descrição -->
 <h3>Salve meus lindos 👋</h3>
 
-<!-- Habilidades + Sub-div com projetos -->
+<!-- Habilidades -->
 <div style="display:inline_block">
     <img align="right" alt="AgioTulo" src="https://cdn.discordapp.com/emojis/758866965904228362.png?v=1">
     <!-- https://img.shields.io/badge/--svg?style=for-the-badge&logo=&logoColor=&color= -->
@@ -44,6 +44,13 @@
     <br>
 </div>
 
+<!-- Projetos -->
+<div>
+    <h3>Principais projetos</h3>
+    <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight">
+    <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight">
+</div>
+
 <!-- Suporte e Links -->
 <div align="center">
     <a href="https://www.buymeacoffee.com/cartulo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;"></a>
@@ -57,11 +64,13 @@
         <a href="mailto:contato.gil.tulo@gmail.com" target="_blank"><img alt="E-mail de Contato" src="https://img.shields.io/badge/-Gmail-svg?style=for-the-badge&logo=gmail&logoColor=white&color=red"></a>
         <a href="https://discord.gg/ezXs7ZhA7T" target="_blank"><img alt="Discord - GEN Tech" src="https://img.shields.io/badge/-GEN%20Tech-svg?style=for-the-badge&logo=discord&logoColor=white&color=blue"></a>
     </div>
+    <div>
+        <h3>Formulários para Geração Tecnologias (GEN Tech)</h3>
+        <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank"><img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue"></a>
+        <a href="https://forms.gle/wY4dRcFsMFqDewsV9" target="_blank"><img alt="Desenvolvedor" src="https://img.shields.io/badge/-Desenvolvedor-svg?style=for-the-badge&logoColor=white&color=purple"></a>
+        <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank"><img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green"></a> 
+    </div>
     <br>
-    <h4>Formulários para Geração Tecnologias (GEN Tech)</h4>
-    <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank"><img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue"></a>
-    <a href="https://forms.gle/wY4dRcFsMFqDewsV9" target="_blank"><img alt="Desenvolvedor" src="https://img.shields.io/badge/-Desenvolvedor-svg?style=for-the-badge&logoColor=white&color=purple"></a>
-    <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank"><img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green"></a> 
 </div>
 
 <!-- STATISTICS -->
