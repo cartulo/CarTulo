@@ -2,7 +2,7 @@
 ### Salve meus lindos 👋
 
 <!-- Habilidades -->
-<p align="left">
+<div align="left">
     <img align="right" alt="AgioTulo" src="https://cdn.discordapp.com/emojis/758866965904228362.png?v=1">
     <!-- https://img.shields.io/badge/--svg?style=for-the-badge&logo=&logoColor=&color= -->
     <details>
@@ -69,10 +69,10 @@
             <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-svg?style=for-the-badge&logo=adobe-photoshop&logoColor=darkblue&color=blue"></a>
         <br/>
     </details>
-</p>
+</div>
 
 <!-- Projetos -->
-<p align="center"> 
+<div style="display:inline-block" align="center"> 
     <h3>Principais projetos</h3>
     <a href="https://github.com/Cartulo/Exercicios">
         <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" width="282">
@@ -80,18 +80,18 @@
     <a href="https://github.com/geracao/gen-trophies">
         <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" width="282">
     </a>
-</p>
+</div>
 
 <!-- Suporte e Links -->
-<p align="center">
+<div align="center">
     <a href="https://www.buymeacoffee.com/cartulo" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;">
     </a>
-</p>
+</div>
 
 <!-- CONTACT WITH ME + Forms GEN Tech -->
-<p align="left">
-    <p align="center">
+<div align="left">
+    <div align="center">
         <a href="https://linkedin.com/in/gil-tulo" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-svg?style=for-the-badge&logo=linkedin&color=blue">
         </a>
@@ -101,8 +101,8 @@
         <a href="https://discord.gg/ezXs7ZhA7T" target="_blank">
             <img alt="Discord - GEN Tech" src="https://img.shields.io/badge/-GEN%20Tech-svg?style=for-the-badge&logo=discord&logoColor=white&color=blue">
         </a>
-    </p>
-    <p>
+    </div>
+    <div>
         <h3>Formulários para Geração Tecnologias (GEN Tech)</h3>
         <a href="https://forms.gle/uMGjamYAspHvoCkQ8" target="_blank">
             <img alt="Administrador" src="https://img.shields.io/badge/-Administrador-svg?style=for-the-badge&logoColor=white&color=blue">
@@ -113,12 +113,11 @@
         <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank">
             <img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green">
         </a> 
-    </p>
-</p>
+    </div>
+</div>
 
 <!-- STATISTICS -->
-<p> 
-    <!-- <a href="https://github.com/cartulo"> -->
+<div style="display:inline-block"> 
     <a href="#">
         <img alt="GitHub Stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
     </a>
@@ -126,4 +125,4 @@
         <img alt="Most Used Languages" height="146px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
-</p>
+</div>
