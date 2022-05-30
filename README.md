@@ -41,11 +41,11 @@
             <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-svg?style=for-the-badge&logo=adobe-photoshop&logoColor=darkblue&color=blue"></a>
         </p>
     </details>
-    <br>
 </div>
+<br>
 
 <!-- Projetos -->
-<div width="100%">
+<div>
     <h3>Principais projetos</h3>
     <a href="https://github.com/Cartulo/Exercicios">
         <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="150em" style="padding-right:15px">
@@ -53,14 +53,14 @@
     <a href="https://github.com/geracao/gen-trophies">
         <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="150em">
     </a>
-    <br>
 </div>
+<br>
 
 <!-- Suporte e Links -->
 <div align="center">
     <a href="https://www.buymeacoffee.com/cartulo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;"></a>
-    <br>
 </div>
+<br>
 
 <!-- CONTACT WITH ME + Forms GEN Tech -->
 <div>
@@ -75,13 +75,13 @@
         <a href="https://forms.gle/wY4dRcFsMFqDewsV9" target="_blank"><img alt="Desenvolvedor" src="https://img.shields.io/badge/-Desenvolvedor-svg?style=for-the-badge&logoColor=white&color=purple"></a>
         <a href="https://forms.gle/LRXp7Y2najeQFbN39" target="_blank"><img alt="Designer" src="https://img.shields.io/badge/-Designer-svg?style=for-the-badge&logoColor=white&color=green"></a> 
     </div>
-    <br>
 </div>
+<br>
 
 <!-- STATISTICS -->
 <div> 
-    <a href="https://github.com/cartulo">
-    <img alt="GitHub Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
+    <!-- <a href="https://github.com/cartulo"> -->
+    <img alt="GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img alt="Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
