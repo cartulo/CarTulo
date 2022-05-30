@@ -72,14 +72,16 @@
 </div>
 
 <!-- Projetos -->
-<div style="display:inline-block" align="center"> 
+<div>
     <h3>Principais projetos</h3>
-    <a href="https://github.com/Cartulo/Exercicios">
-        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" width="282">
-    </a>
-    <a href="https://github.com/geracao/gen-trophies">
-        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" width="282">
-    </a>
+    <div align="center"> 
+        <a href="https://github.com/Cartulo/Exercicios">
+            <img alt="Repo - Exercicios" width="50%" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&hide_border=true&theme=tokyonight">
+        </a>
+        <a href="https://github.com/geracao/gen-trophies">
+            <img alt="GEN Repo - Trophies" width="50%" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&hide_border=true&theme=tokyonight">
+        </a>
+    </div>
 </div>
 
 <!-- Suporte e Links -->
@@ -117,12 +119,12 @@
 </div>
 
 <!-- STATISTICS -->
-<div style="display:inline-block"> 
+<div align="left"> 
     <a href="#">
-        <img alt="GitHub Stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+        <img alt="GitHub Stats" height="5em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
     </a>
     <a href="#">
-        <img alt="Most Used Languages" height="146px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+        <img alt="Most Used Languages" height="5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
