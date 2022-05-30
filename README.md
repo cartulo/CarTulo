@@ -2,7 +2,7 @@
 <h3>Salve meus lindos 👋</h3>
 
 <!-- Habilidades -->
-<div style="display:inline_block">
+<div>
     <img align="right" alt="AgioTulo" src="https://cdn.discordapp.com/emojis/758866965904228362.png?v=1">
     <!-- https://img.shields.io/badge/--svg?style=for-the-badge&logo=&logoColor=&color= -->
     <details>
@@ -73,10 +73,10 @@
 <br>
 
 <!-- Projetos -->
-<div style="display:inline_block">
+<div>
     <h3>Principais projetos</h3>
     <a href="https://github.com/Cartulo/Exercicios">
-        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="150em" style="padding-right:15px">
+        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="150em">
     </a>
     <a href="https://github.com/geracao/gen-trophies">
         <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="150em">
@@ -123,7 +123,7 @@
 <!-- STATISTICS -->
 <div> 
     <!-- <a href="https://github.com/cartulo"> -->
-    <img alt="GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img alt="Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img alt="Most Used Languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
