@@ -72,13 +72,13 @@
 </p>
 
 <!-- Projetos -->
-### Principais projetos
 <p align="center"> 
+    ### Principais projetos
     <a href="https://github.com/Cartulo/Exercicios">
-        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="150em">
+        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" width="282">
     </a>
     <a href="https://github.com/geracao/gen-trophies">
-        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="150em">
+        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" width="282">
     </a>
 </p>
 
@@ -119,7 +119,7 @@
 <!-- STATISTICS -->
 <p> 
     <!-- <a href="https://github.com/cartulo"> -->
-    <img alt="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img alt="Most Used Languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img alt="GitHub Stats" height="192px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img alt="Most Used Languages" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </p>
