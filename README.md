@@ -45,10 +45,14 @@
 </div>
 
 <!-- Projetos -->
-<div max-height="150px">
+<div max-height="175px" width="100%">
     <h3>Principais projetos</h3>
-    <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="125em">
-    <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="125em">
+    <a href="https://github.com/Cartulo/Exercicios">
+        <img alt="Repo - Exercicios" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&theme=tokyonight" height="125em">
+    </a>
+    <a href="https://github.com/geracao/gen-trophies">
+        <img alt="GEN Repo - Trophies" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&theme=tokyonight" height="125em">
+    </a>
 </div>
 
 <!-- Suporte e Links -->
@@ -74,7 +78,7 @@
 </div>
 
 <!-- STATISTICS -->
-<div max-height="150px"> 
+<div max-height="200px"> 
     <a href="https://github.com/cartulo">
     <img alt="GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img alt="Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=7&theme=tokyonight"/>
