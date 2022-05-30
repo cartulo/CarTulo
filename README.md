@@ -45,8 +45,8 @@
 </div>
 
 <!-- Suporte e Links -->
-<div>
-    <a href="https://www.buymeacoffee.com/cartulo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" align="center" style="height:60px!important;width:217px!important;"></a>
+<div align="center">
+    <a href="https://www.buymeacoffee.com/cartulo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;"></a>
     <br>
 </div>
 
