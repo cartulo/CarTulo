@@ -119,7 +119,11 @@
 <!-- STATISTICS -->
 <p> 
     <!-- <a href="https://github.com/cartulo"> -->
-    <img alt="GitHub Stats" height="192px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
-    <img alt="Most Used Languages" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+    <a href="#">
+        <img alt="GitHub Stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=cartulo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+    </a>
+    <a href="#">
+        <img alt="Most Used Languages" height="146px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+    </a>
     <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </p>
