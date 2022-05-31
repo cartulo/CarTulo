@@ -75,11 +75,12 @@
 <div>
     <h3>Principais projetos</h3>
     <div align="center"> 
+        <!-- 2x1 height 135 | 3x1 height ??? -->
         <a href="https://github.com/Cartulo/Exercicios">
-            <img alt="Repo - Exercicios" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&hide_border=true&theme=tokyonight">
+            <img alt="Repo - Exercicios" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&hide_border=true&theme=tokyonight">
         </a>
         <a href="https://github.com/geracao/gen-trophies">
-            <img alt="GEN Repo - Trophies" height="150" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&hide_border=true&theme=tokyonight">
+            <img alt="GEN Repo - Trophies" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&hide_border=true&theme=tokyonight">
         </a>
     </div>
 </div>
