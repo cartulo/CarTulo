@@ -93,7 +93,7 @@
 <!-- CONTACT WITH ME + Forms GEN Tech -->
 <div align="left">
     <div align="center">
-        <a href="https://linkedin.com/in/gil-tulo" target="_blank">
+        <a href="https://linkedin.com/in/gil-vulgo-tulo" target="_blank">
             <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-svg?style=for-the-badge&logo=linkedin&color=blue">
         </a>
         <a href="mailto:contato.gil.tulo@gmail.com" target="_blank">
@@ -125,5 +125,7 @@
     <a href="#">
         <img alt="Most Used Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
-    <img alt="Snake Animation" tooltip="Vo come commit NHAM NHAM" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
+    <div tooltip="Vo come commit NHAM NHAM">
+        <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/>
+    </div>
 </div>
