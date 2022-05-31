@@ -4,7 +4,6 @@
 <!-- Habilidades -->
 <div align="left">
     <img align="right" alt="AgioTulo" src="https://cdn.discordapp.com/emojis/758866965904228362.png?v=1">
-    <!-- https://img.shields.io/badge/--svg?style=for-the-badge&logo=&logoColor=&color= -->
     <details>
         <summary>Linguagens de programação e marcação</summary>
         <br/>
@@ -75,9 +74,8 @@
 <div>
     <h3>Principais projetos</h3>
     <div align="center"> 
-        <!-- 2x1 height 135 | 3x1 height ??? -->
         <a href="https://github.com/Cartulo/Exercicios">
-            <img alt="Repo - Exercicios" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&hide_border=true&theme=tokyonight">
+            <img alt="Me Repo - Exercicios" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=cartulo&repo=Exercicios&layout=compact&hide_border=true&theme=tokyonight">
         </a>
         <a href="https://github.com/geracao/gen-trophies">
             <img alt="GEN Repo - Trophies" height="135" src="https://github-readme-stats.vercel.app/api/pin?username=geracao&repo=gen-trophies&layout=compact&hide_border=true&theme=tokyonight">
@@ -88,7 +86,7 @@
 <!-- Suporte e Links -->
 <div align="center">
     <a href="https://www.buymeacoffee.com/cartulo" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee"style="height:60px!important;width:217px!important;">
+        <img alt="Buy Me A Coffee" style="height:60px!important;width:217px!important;" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png">
     </a>
 </div>
 
@@ -127,5 +125,5 @@
     <a href="#">
         <img alt="Most Used Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
-    <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
+    <img alt="Snake Animation" tooltip="Vo come commit NHAM NHAM" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/> 
 </div>
