@@ -126,6 +126,10 @@
         <img alt="Most Used Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartulo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
     </a>
     <div tooltip="Vo come commit NHAM NHAM">
-        <img alt="Snake Animation" src="https://github.com/cartulo/cartulo/blob/output/github-contribution-grid-snake.svg"/>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cartulo/cartulo/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cartulo/cartulo/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cartulo/cartulo/output/github-contribution-grid-snake.svg">
+        </picture>
     </div>
 </div>
